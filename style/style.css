@@ -20,7 +20,7 @@ header {
     position: relative;
 }
 
-.home-page image {
+.home-page header {
     background-image: url(/assets/banner.jpeg);
 }
 
